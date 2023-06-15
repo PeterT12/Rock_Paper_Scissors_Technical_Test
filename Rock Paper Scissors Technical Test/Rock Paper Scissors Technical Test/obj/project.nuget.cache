@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LVOtY4MULA++0hjQKnuOKTrY4b4S2W4jBoaKxALzCgjoPoghKogA/hi5JEf7g6kFfEgR/ZB23ExprxmXIPXiwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pete\\Documents\\Rock Paper Scissors Technical Test\\Rock Paper Scissors Technical Test\\Rock Paper Scissors Technical Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pete\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Pete\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Pete\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Pete\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

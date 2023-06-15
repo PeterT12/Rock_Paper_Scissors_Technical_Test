@@ -1,0 +1,16 @@
+C:\Users\Pete\Documents\Rock Paper Scissors Technical Test\Rock Paper Scissors Technical Test\bin\Debug\net6.0\Rock Paper Scissors Technical Test.exe
+C:\Users\Pete\Documents\Rock Paper Scissors Technical Test\Rock Paper Scissors Technical Test\bin\Debug\net6.0\Rock Paper Scissors Technical Test.deps.json
+C:\Users\Pete\Documents\Rock Paper Scissors Technical Test\Rock Paper Scissors Technical Test\bin\Debug\net6.0\Rock Paper Scissors Technical Test.runtimeconfig.json
+C:\Users\Pete\Documents\Rock Paper Scissors Technical Test\Rock Paper Scissors Technical Test\bin\Debug\net6.0\Rock Paper Scissors Technical Test.dll
+C:\Users\Pete\Documents\Rock Paper Scissors Technical Test\Rock Paper Scissors Technical Test\bin\Debug\net6.0\ref\Rock Paper Scissors Technical Test.dll
+C:\Users\Pete\Documents\Rock Paper Scissors Technical Test\Rock Paper Scissors Technical Test\bin\Debug\net6.0\Rock Paper Scissors Technical Test.pdb
+C:\Users\Pete\Documents\Rock Paper Scissors Technical Test\Rock Paper Scissors Technical Test\obj\Debug\net6.0\Rock Paper Scissors Technical Test.GlobalUsings.g.cs
+C:\Users\Pete\Documents\Rock Paper Scissors Technical Test\Rock Paper Scissors Technical Test\obj\Debug\net6.0\Rock Paper Scissors Technical Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pete\Documents\Rock Paper Scissors Technical Test\Rock Paper Scissors Technical Test\obj\Debug\net6.0\Rock Paper Scissors Technical Test.AssemblyInfoInputs.cache
+C:\Users\Pete\Documents\Rock Paper Scissors Technical Test\Rock Paper Scissors Technical Test\obj\Debug\net6.0\Rock Paper Scissors Technical Test.AssemblyInfo.cs
+C:\Users\Pete\Documents\Rock Paper Scissors Technical Test\Rock Paper Scissors Technical Test\obj\Debug\net6.0\Rock Paper Scissors Technical Test.csproj.CoreCompileInputs.cache
+C:\Users\Pete\Documents\Rock Paper Scissors Technical Test\Rock Paper Scissors Technical Test\obj\Debug\net6.0\Rock Paper Scissors Technical Test.dll
+C:\Users\Pete\Documents\Rock Paper Scissors Technical Test\Rock Paper Scissors Technical Test\obj\Debug\net6.0\ref\Rock Paper Scissors Technical Test.dll
+C:\Users\Pete\Documents\Rock Paper Scissors Technical Test\Rock Paper Scissors Technical Test\obj\Debug\net6.0\Rock Paper Scissors Technical Test.pdb
+C:\Users\Pete\Documents\Rock Paper Scissors Technical Test\Rock Paper Scissors Technical Test\obj\Debug\net6.0\Rock Paper Scissors Technical Test.genruntimeconfig.cache
+C:\Users\Pete\Documents\Rock Paper Scissors Technical Test\Rock Paper Scissors Technical Test\obj\Debug\net6.0\Rock Paper Scissors Technical Test.csproj.AssemblyReference.cache
